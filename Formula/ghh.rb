@@ -5,8 +5,8 @@
 class Ghh < Formula
   desc "Your entire git + GitHub workflow in one searchable command"
   homepage "https://github.com/jgorodetsky/ghh"
-  url "https://github.com/jgorodetsky/ghh/archive/refs/tags/v0.4.0.tar.gz"
-  sha256 "e5a6aadd5e6aebb0d15b39a18f8ae1550ec4be50a72bfc723c8a5fe607f03740"
+  url "https://github.com/jgorodetsky/ghh/archive/refs/tags/v0.4.1.tar.gz"
+  sha256 "b425c1f76a08233689654295eae4f4c25cdcc7cfee2a435eb988268dca3b2872"
   license "MIT"
 
   depends_on "fzf"
